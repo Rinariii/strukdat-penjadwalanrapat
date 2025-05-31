@@ -1,0 +1,5 @@
+Nama: Budi, Rapat: Tua, Tanggal: 11, Kehadiran: Ya
+Nama: Budi, Rapat: S, Tanggal: S, Kehadiran: Ya
+Nama: Budi, Rapat: 1, Tanggal: 1, Kehadiran: Hadir
+Nama: Budi, Rapat: 1, Tanggal: 1, Kehadiran: Hadir
+Nama: Steven, Rapat: Agriinfo, Tanggal: 2025-07-11, Kehadiran: Hadir
